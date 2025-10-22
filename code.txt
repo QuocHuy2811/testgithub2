@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello Huy
 =======
 Hello Khan
 >>>>>>> khan
+=======
+Hello Hau
+>>>>>>> hau
